@@ -17,6 +17,22 @@ This project is great for students and developers learning Java GUI development 
 - Java Runtime Environment (**JRE**) version **8 or above**
   - [Download Java](https://www.oracle.com/java/technologies/javase-downloads.html) (Oracle)
   - Or use [OpenJDK](https://jdk.java.net/)
+ 
+## 🛠️ Built With
+
+- **Java**
+- **AWT / Swing** for GUI
+
+## 👨‍💻 Author
+
+**Ram Vishwakarma**  
+💼 Full Stack Developer | AI Engineer | IoT Creator  
+📧 Email: [rv7029919@gmail.com.com]  
+🌐 Instagram: [https://www.instagram.com/c_for_coding_001?igsh=NXk1cGNoMW9mcm95]
+🌐 Instagram: [https://www.instagram.com/ramvish_108?igsh=cGwwbnBqMjV3bnR1]
+
+---
+
 
 ### ▶️ Steps to Run
 
@@ -27,3 +43,5 @@ This project is great for students and developers learning Java GUI development 
 
 ```bash
 java -jar KALUKATOR.jar
+
+
